@@ -23,3 +23,5 @@ For end-users, you may search on our forum for readily available installed scrip
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Read notes.txt for further use.
+
+/!\ Heroku don't store any data. Once your app shutdown, you will loose all your login and your files. To prevent that you can use http://kaffeine.herokuapp.com/ to keep your app UP 24/24.
